@@ -1046,8 +1046,8 @@ cursor:pointer;
   justify-content: center;
 }
 .work__img{
-  width:295px;
-  object-fit: cover;
+  width: 100%;
+  object-fit: contain;
 }
 
 .contact__info{
