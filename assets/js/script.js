@@ -22,8 +22,8 @@ $.fn.jQuerySimpleCounter = function( options ) {
 
 
 $('#number1').jQuerySimpleCounter({end: 1200,duration: 2000});
-$('#number2').jQuerySimpleCounter({end: 100,duration: 2000});
-$('#number3').jQuerySimpleCounter({end: 6,duration: 2000});
+$('#number2').jQuerySimpleCounter({end: 30,duration: 2000});
+$('#number3').jQuerySimpleCounter({end: 122,duration: 2000});
 $('#number4').jQuerySimpleCounter({end: 100,duration: 2000});
 
 
